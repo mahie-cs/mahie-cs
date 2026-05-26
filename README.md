@@ -18,7 +18,7 @@ I'm officially starting my Computer Science & Engineering journey! Right now, I'
 ## 🛠️ My Toolbox (Starting Out)
 
 *   **Editor:** `VS Code` & `PyCharm`
-*   **Version Control:** `Git` & `GitHub` (Learning the ropes!)
+*   **Version Control:** `Git` & `GitHub`
 *   **Languages I'm exploring:** `C` & `Python`
 
 ---
