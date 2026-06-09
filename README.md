@@ -11,8 +11,7 @@ I'm officially starting my Computer Science & Engineering journey! Right now, I'
 
 *   🧠 **Status:** Freshman. Currently waiting for classes to start!
 *   🌱 **What I'm learning right now:** Python
-*   💻 **Current Goal:** To write clean code, survive calculus, and build my first real project this year.
-
+<!-- Built my first project. Removed line. -->
 ---
 
 ## 🛠️ My Toolbox (Starting Out)
