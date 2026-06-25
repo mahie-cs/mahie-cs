@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Mahie!
 
-### 🎓 Incoming CSE Student 
+### 🎓 An Official CSE Student 
 **SAIC Institute of Management and Technology (SIMT)** 
 
-I'm officially starting my Computer Science & Engineering journey! Right now, I'm preparing for my first year, exploring the basics of coding, and getting familiar with the tech world. This GitHub profile will be the journal of my progress from day one.
+I've started my Computer Science & Engineering journey! Right now, I'm in my first semester, exploring the basics of coding, and getting familiar with the tech world. This GitHub profile will be the journal of my progress from day one.
 
 ---
 
 ## 🚀 The Journey Begins
 
-*   🧠 **Status:** Freshman. Currently waiting for classes to start!
+*   🧠 **Status:** Freshman
 *   🌱 **What I'm learning right now:** Python
-<!-- Built my first project. Removed line. -->
----
 
 ## 🛠️ My Toolbox (Starting Out)
 
