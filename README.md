@@ -2,7 +2,7 @@
 
 ### A CSE Student @ **SAIC Institute of Management and Technology (SIMT)** 
 
-I've started my Computer Science & Engineering journey! Right now, I'm in my first semester, exploring the basics of coding, and getting familiar with the tech world. This GitHub profile will be the journal of my progress from day one.
+I've started my BSc. in Computer Science & Engineering journey! Right now, I'm in my first semester, exploring the basics of coding, and getting familiar with the tech world. This GitHub profile will be the journal of my progress from day one.
 
 ---
 
