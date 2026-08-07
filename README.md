@@ -8,7 +8,7 @@ I've started my BSc. in Computer Science & Engineering journey! Right now, I'm i
 
 ## My Toolbox (Starting Out)
 
-*   **Editor:** `VS Code` & `PyCharm`
+*   **Editor:** `VS Code` & `Vim`
 *   **Version Control:** `Git` & `GitHub`
 *   **Languages I'm exploring:** `C` & `Python`
 
