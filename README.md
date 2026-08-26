@@ -1,6 +1,6 @@
 # Hello, I'm Mahie!
 
-### A CSE Student @ **SAIC Institute of Management and Technology (SIMT)** 
+### A CSE Student @ Faculty of Engineering and Technology under University of Dhaka | **SAIC Institute of Management and Technology Engineering College (SIMT Engineering College)** 
 
 I've started my BSc. in Computer Science & Engineering journey! Right now, I'm in my first semester, exploring the basics of coding, and getting familiar with the tech world. This GitHub profile will be the journal of my progress from day one.
 
