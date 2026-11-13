@@ -23,9 +23,12 @@ Feel free to reach out to me.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahie.edu@gmail.com)
 
+</div>
 
-[![Mahie's GitHub stats](https://github-stats-extended.vercel.app/api?username=mahie-cs)](https://github.com/stats-organization/github-stats-extended)
+---
 
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mahie-cs&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=mahie-cs&langs_count=4&theme=dark)
+
 </div>
